@@ -1,0 +1,69 @@
+
+🎯 Passo 1 - Identificar os Atores
+
+No seu projeto, inicialmente teremos apenas 1 ator:
+
+Ator Principal
+
+👤 Colecionador
+
+É a pessoa que utiliza o aplicativo para controlar as figurinhas.
+
+------------------
+
+🎯 Passo 2 - Identificar os Casos de Uso
+
+Com base nos requisitos que definimos:
+
+Colecionador pode:
+Consultar Coleção
+Marcar Figurinha Obtida
+Registrar Figurinha Repetida
+Consultar Faltantes
+Consultar Repetidas
+Pesquisar Figurinha
+Visualizar Estatísticas
+
+------------------
+
+🎯 Passo 3 - Diagrama Inicial
+
+------------------
+
+🎯 Passo 4 - Especificar Cada Caso de Uso
+
+------------------
+
+🎯 Passo 5 - Evolução para Versão 2.0
+
+Quando você adicionar Firebase:
+
+Novo ator:
+
+👤 Usuário Autenticado
+
+Novos casos de uso:
+
+Realizar Login
+Realizar Logout
+Fazer Backup na Nuvem
+Compartilhar Coleção
+Comparar Coleções
+
+------------------
+
+📌 Ferramenta para desenhar
+
+Recomendo usar:
+
+Draw.io (diagrams.net)
+
+É gratuita e muito utilizada por estudantes e profissionais.
+
+------------------
+
+Próxima etapa
+
+Agora que temos os casos de uso definidos, a próxima etapa seria criar o Diagrama UML de Casos de Uso desenhado e depois o Diagrama de Classes.
+
+Eu recomendo que façamos primeiro uma versão mais profissional do diagrama de casos de uso, utilizando corretamente os relacionamentos UML (include e extend), como seria feito em um projeto de faculdade ou empresa. Isso vai deixar seu portfólio muito mais forte.
